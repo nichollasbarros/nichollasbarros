@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá eu sou o Nichollas 👋
 
-<!--
-**nichollasbarros/nichollasbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Automation Test
+- 🌱 I’m currently learning JavaScript and Cypress
+- 📫 How to reach me: nichollas.barros@gmail.com
+- 😄 Pronouns: ele (he)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>  
+  <a href="https://github.com/nichollasbarros">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nichollasbarros&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/nichollasbarros">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichollasbarros&layout=compact&langs_count=4&theme=chartreuse-dark" />
+  </a>
+  
+</div>
