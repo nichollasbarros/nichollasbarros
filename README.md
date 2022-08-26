@@ -10,7 +10,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nichollasbarros&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/nichollasbarros">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichollasbarros&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichollasbarros&layout=compact&theme=chartreuse-dark"/>
   </a>
   
 </div>
